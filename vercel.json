@@ -4,11 +4,5 @@
     "api/poll.js": {
       "maxDuration": 10
     }
-  },
-  "rewrites": [
-    {
-      "source": "/api/(.*)",
-      "destination": "/api/poll"
-    }
-  ]
+  }
 }
